@@ -81,4 +81,3 @@ def calculate_demographic_data(print_data=True):
         'top_IN_occupation': top_IN_occupation
     }
 
-git remote add origin https://github.com/<your-user>/boilerplate-demographic-data-analyzer.git
